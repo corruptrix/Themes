@@ -18,7 +18,7 @@
   /*
    * SoftX variables
    */
-  --background-image: url("https://media.discordapp.net/attachments/1069294823523229708/1109548531007631480/roxanne_wolf___poster_by_moarphexx_dfla3os-pre.jpg?width=1203&height=676"); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d34613d0-7f17-4a10-b434-2f4f75922d65/df439yb-9da6e476-b51b-4c7a-8f42-cb0128aa0db1.png/v1/fill/w_444,h_250,q_70,strp/chibi_vanny_wallpaper_by_pixelflaresden_df439yb-250t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZDM0NjEzZDAtN2YxNy00YTEwLWI0MzQtMmY0Zjc1OTIyZDY1XC9kZjQzOXliLTlkYTZlNDc2LWI1MWItNGM3YS04ZjQyLWNiMDEyOGFhMGRiMS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.4NKK1zHdXzEgxa-l090Luh6XlTwfD1NarxgYV4-eC6s"); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-blur: 5px; /* Blur intensity of --background-image | Must end in px | Default: 0px */
   --accent: 133, 70, 189; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
   --channels-width: 300px; /* Width of the channels list. | Default: 300px */
