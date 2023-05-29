@@ -41,7 +41,7 @@
   --rs-medium-width: 2px; /* Default: 2px */
   --rs-large-width: 2px; /* Default: 2px */
   /* Customizable colors */
-  --rs-online-color: #ef60fc; /* Default: #43b581 */
+  --rs-online-color: #e31037; /* Default: #43b581 */
   --rs-idle-color: #f0bd50; /* Default: #faa61a */
   --rs-dnd-color: #000000; /* Default: #f04747 */
   --rs-offline-color: #726767; /* Default: #636b75 */
