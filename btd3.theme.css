@@ -18,7 +18,7 @@
   /*
    * SoftX variables
    */
-  --background-image: url("https://hazbinhelluvagifs.tumblr.com/post/693332280418205696/random-helluva-boss-gifs-64"); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url("https://64.media.tumblr.com/71066c49993290688d1856e04d016d3a/f8173ece5a256212-58/s1280x1920/bd2ac86e562136d720675b4f04049b8e90c5c095.gifv"); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-blur: 5px; /* Blur intensity of --background-image | Must end in px | Default: 0px */
   --accent: 133, 70, 189; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
   --channels-width: 300px; /* Width of the channels list. | Default: 300px */
